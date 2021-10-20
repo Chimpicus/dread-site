@@ -7,18 +7,18 @@ const Navbar = () => {
           <span class="nav-toggler navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto">
-            <li class="nav-item m-auto py-2">
-              <a class="nav-link" aria-current="page" href="#">Scenarios</a>
+          <ul class="navbar-nav ms-auto my-2 px-2">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#">SCENARIOS</a>
             </li>
-            <li class="nav-item m-auto py-2">
-              <a class="nav-link" aria-current="page" href="#">Game Masters Tips</a>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#">GAMEMASTERS TIPS</a>
             </li>
-            <li class="nav-item m-auto py-2">
-              <a class="nav-link" aria-current="page" href="#">Mailing List</a>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#">MAILING LIST</a>
             </li>
-            <li class="nav-item m-auto py-2">
-              <a class="nav-link" aria-current="page" href="#">About</a>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#">ABOUT</a>
             </li>
 
           </ul>

@@ -10652,7 +10652,7 @@ fieldset:disabled .btn {
   font-family: 'Unica One', cursive;
 }
 
-.nav-toggler {
-  color: red;
+.nav-link {
+  font-size: 12px;
 }
 /*# sourceMappingURL=App.css.map */
