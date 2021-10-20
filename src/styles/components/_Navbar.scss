@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
+
+.nav {
+  &-brand {
+    color: red !important;
+    font-family: 'Unica One', cursive;
+  }
+
+  &-toggler {
+    color: red;
+  }
+}
