@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dread-site/static/css/main.b3f1740e.chunk.css",
+    "main.js": "/dread-site/static/js/main.a0f29323.chunk.js",
+    "main.js.map": "/dread-site/static/js/main.a0f29323.chunk.js.map",
+    "runtime-main.js": "/dread-site/static/js/runtime-main.770e1bd6.js",
+    "runtime-main.js.map": "/dread-site/static/js/runtime-main.770e1bd6.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/dread-site/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6ff932ab.chunk.js": "/dread-site/static/js/2.6ff932ab.chunk.js",
+    "static/js/2.6ff932ab.chunk.js.map": "/dread-site/static/js/2.6ff932ab.chunk.js.map",
+    "static/js/3.40a98079.chunk.js": "/dread-site/static/js/3.40a98079.chunk.js",
+    "static/js/3.40a98079.chunk.js.map": "/dread-site/static/js/3.40a98079.chunk.js.map",
+    "index.html": "/dread-site/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/dread-site/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.b3f1740e.chunk.css.map": "/dread-site/static/css/main.b3f1740e.chunk.css.map",
+    "static/js/2.6ff932ab.chunk.js.LICENSE.txt": "/dread-site/static/js/2.6ff932ab.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dread-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.770e1bd6.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6ff932ab.chunk.js",
+    "static/css/main.b3f1740e.chunk.css",
+    "static/js/main.a0f29323.chunk.js"
+  ]
+}
